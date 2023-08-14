@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to my humble GitHub !!!</h1>
-<p align="center">My name is Alfredo Mello 28 years old</p>
+<h1 align="center">Welcome To  My GitHub </h1>
+<p align="center">Alfredo Mello, I have 28 years old and i'm a software analysis and development student At Ulbra University .  </p>
 
 <div align="center">
     <a href="https://github.com/AlfredoMellox7">
@@ -10,25 +10,14 @@
     </a>
 </div>
 
-<h3 align="center">Technologies thast i use!</h3>
-<!--<p align="center">
-    <img src="https://img.shields.io/badge/language-TypeScript-blue"/>
-    <img src="https://img.shields.io/badge/framework-Node-brightgreen"/>
-    <img src="https://img.shields.io/badge/framework-Angular-orange"/>
-    <img src="https://img.shields.io/badge/framework-React-blue"/>
-</p>-->
+<h3 align="center">Technologies That i Use !</h3>
 <p align="center">
-    <!--<img src="https://img.shields.io/badge/language-JavaScript-yellow"/>-->
     <img src="https://img.shields.io/badge/language-HTML-red"/>
     <img src="https://img.shields.io/badge/language-css-blue"/>
-    <!--<img src="https://img.shields.io/badge/language-scss-purple"/>-->
-</p><!--
-<p align="center">
-    <img src="https://img.shields.io/badge/language-c shap-blue"/>
-    <img src="https://img.shields.io/badge/framework-dotnet-blue"/>
-</p>-->
+    <img src="https://img.shields.io/badge/language-JavaScript-yellow"/>
+</p>
 
-<h3 align="center">About my building</h3>
+<h3 align="center">You Can Find Me Here :</h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/alfredo-mello-687653230/" target="blank">
