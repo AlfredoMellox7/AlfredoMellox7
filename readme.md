@@ -11,13 +11,6 @@
     </a>
 </div>
 
-<h3 align="center">Estudos focados em Javascript e Node.Js</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/language-HTML-red"/>
-    <img src="https://img.shields.io/badge/language-css-blue"/>
-    <img src="https://img.shields.io/badge/language-JavaScript-yellow"/>
-</p>
-
 <h3 align="center">Linkedin :</h3>
 
 <p align="center">
